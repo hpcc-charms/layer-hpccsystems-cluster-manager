@@ -1,0 +1,17 @@
+name: hpccsystems-cluster-manager
+summary: HPCC (High Performance Computing Cluster)
+maintainer: xiaoming.wang@lexisnexis.com
+description:
+  Configure HPCCSystems cluster
+
+tags:
+  - big_data
+
+subordinate: false
+
+provides:
+  hpcc-cluster:
+    interface: cluster
+
+#requires:
+
