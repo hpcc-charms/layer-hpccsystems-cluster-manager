@@ -17,4 +17,4 @@ packages:
  - rsync
  - zip
  - ansible
- - libatlas3-base
+ - libblas3
